@@ -15,7 +15,7 @@
 - 🌱 I’m currently studying **Data Science**  
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**  
 - ⚡ BTW, I am a **Linux user**  
-- 📫 How to reach me: <a href="mailto:umindu.contact@gmail.com">**umindu.contact@gmail.com**</a>  
+- 📫 Reach me: <a href="mailto:umindu.contact@gmail.com">**umindu.contact@gmail.com**</a>  
 
 </td>
 <td width="50%" align="center">
