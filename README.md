@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/umindunims/umindunims/blob/main/Resources/12eca-machine-learning.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/umindunims/umindunims/blob/main/12eca-machine-learning.gif">
 
 </td>
 </tr>
